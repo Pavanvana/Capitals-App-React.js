@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  border-radius: 15px;
+  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.heading {
+  font-family: roboto;
+  font-size: 40px;
+}
+.dropdown-container {
+  display: flex;
+}
+.dropdown {
+  height: 40px;
+  width: 140px;
+  border-radius: 4px;
+  margin-right: 10px;
+  margin-top: 5px;
+  padding-left: 10px;
+  font-family: roboto;
+  font-size: 15px;
+  font-weight: 500;
+}
+.description {
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 400;
+}
+.country {
+  font-family: roboto;
+  font-size: 30px;
+  font-weight: bold;
+}
